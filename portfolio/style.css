@@ -1,0 +1,32 @@
+body{
+background:#eef2f7;
+font-family:Segoe UI, sans-serif;
+}
+
+.profile-section{
+background:linear-gradient(135deg,#667eea,#764ba2);
+padding:40px;
+border-radius:20px;
+color:white;
+margin-bottom:30px;
+}
+
+.profile-img{
+width:150px;
+height:150px;
+border-radius:50%;
+border:5px solid white;
+object-fit:cover;
+margin-bottom:10px;
+}
+
+.tagline{
+font-size:18px;
+letter-spacing:1px;
+opacity:0.9;
+}
+
+.card{
+border-radius:15px;
+box-shadow:0 0 15px rgba(0,0,0,0.1);
+}
